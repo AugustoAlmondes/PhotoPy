@@ -7,4 +7,5 @@ A Biblioteca PhotoPy é uma poderosa ferramenta desenvolvida por Augusto Almonde
 
 A biblioteca tem como objetivo fornecer ferramentas e funcionalidades para a manipulação, processamento e análise de imagens de forma programática. Ela foi projetada para facilitar a realização de tarefas como abrir, modificar, salvar e analisar imagens, bem como aplicar diversos filtros e transformações.
 
+Abaixo está alguns exemplos dos filtro podem ser aplicados.
 <img src="/Readme/output.png">
