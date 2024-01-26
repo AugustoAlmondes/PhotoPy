@@ -10,4 +10,5 @@ A biblioteca tem como objetivo fornecer ferramentas e funcionalidades para a man
 No Jupyter Notebook presente no repositório existe um tutorial expecificando cada função e as explicando-as de forma detalhada, além de possuir um exemplo da aplicação de cada funcionalidade.
 
 Abaixo está alguns exemplos dos filtro podem ser aplicados.
-<img src="/Readme/output.png" height="60%" width="30%">
+
+<img src="/Readme/output.png" height="65%" width="35%">
