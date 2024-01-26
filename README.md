@@ -11,4 +11,4 @@ No Jupyter Notebook presente no repositório existe um tutorial expecificando ca
 
 Abaixo está alguns exemplos dos filtro podem ser aplicados.
 
-<img src="/Readme/output.png" height="65%" width="35%" align_item="center">
+<img src="/Readme/output.png" height="65%" width="35%">
